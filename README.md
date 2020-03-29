@@ -15,15 +15,15 @@
 - Excluir elementos
 - Encontrar elementos
  
-## ÁRVORE binária
+## ÁRVORE BINÁRIA
 - Organização por elementos na raiz
 
-## ÁRVORE avl
+## ÁRVORE AVL
 - Fazer rotações de balanceamento
 
 ## TECNOLOGIAS
  Este Projeto foi Utilizado a Seguinte tecnologia:
-  ` ` Python
+  - Python
 
 ## CURSO
  UFRPE: Sistemas De Informações
