@@ -1,12 +1,12 @@
 # ALGORITMOS E ESTRUTURA DE DADOS
- `Disciplina visa mostrar como as Estruturas de Dados funcionam`
+ ## Disciplina visa mostrar como as Estruturas de Dados funcionam
 
 ## LISTA simplismente encadeada
- `Adicionar elementos`
- `Remover elementos`
- `Buscar elementos`
- `Excluir elementos`
- `Encontrar elementos`
+### Adicionar elementos
+### Remover elementos
+### Buscar elementos
+### Excluir elementos
+### Encontrar elementos
 
 ## LISTA duplamente encadeada
  `Adicionar elementos`
